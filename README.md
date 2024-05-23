@@ -6,8 +6,6 @@
 <p>https://nodejs.org/en/download/package-manager</p>
 
 <pre> 
- download ZIP folder app
- 
  Oopen in terminal Then:
  
  npm i
